@@ -56,4 +56,4 @@ async def on_message(message):
         await message.channel.send('명단에 없는 회원입니다. 운영진에게 문의 주시기 바랍니다')      
 
 
-client.run('MTA5MjgxNDIzNjg1NTU3ODYyNA.GnWnyp.xFfgDoFJQ9eFDgZwKDUdIv5K9szx-Dj6A-08XU')
+client.run('')
